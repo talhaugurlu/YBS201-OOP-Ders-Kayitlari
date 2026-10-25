@@ -20,4 +20,3 @@ python Ders001_Futbolcu.py
 python Ders002_OyunKarakteri.py
 ```
 
-> Not: Bunlar öğrenme amacıyla hazırlanmış, derste görülen temel kavramlara dayalı kişisel uygulama örnekleridir. İkinci örnek yeniden düzenlenmiştir; öğretim elemanının kodunun birebir kopyası olduğu iddia edilmez.
